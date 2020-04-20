@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Home from './onepirate/Home';
 
 const App = () => {
   return (
     <div className="App">
-      <h3>Nat</h3>
+      <Home />
     </div>
   );
 };
